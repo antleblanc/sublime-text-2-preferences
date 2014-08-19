@@ -36,6 +36,7 @@ Depending on your OS platform, install preferences in those following folders
  + [AutoFileName](https://sublime.wbond.net/packages/AutoFileName)
  + [Autoprefixer](https://sublime.wbond.net/packages/Autoprefixer)
  + [BracketHighlighter](https://sublime.wbond.net/packages/BracketHighlighter)
+ + [Color Highlighter](https://sublime.wbond.net/packages/Color%20Highlighter)
  + [DocBlockr](https://sublime.wbond.net/packages/DocBlockr)
  + [EditorConfig](https://sublime.wbond.net/packages/EditorConfig)
  + [Emmet](https://sublime.wbond.net/packages/Emmet)
