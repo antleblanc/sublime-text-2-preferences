@@ -56,7 +56,6 @@ Depending on your OS platform, install preferences in those following folders
  + [SFTP](https://sublime.wbond.net/packages/SFTP)
  + [Smarty](https://sublime.wbond.net/packages/Smarty)
  + [SublimeLinter](https://sublime.wbond.net/packages/SublimeLinter)
- + [Terminal](https://sublime.wbond.net/packages/Terminal)
  + [Theme - Soda](https://sublime.wbond.net/packages/Theme%20-%20Soda)
 
 ## Shortcuts
