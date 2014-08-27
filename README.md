@@ -9,6 +9,7 @@
   * [Installation](#installation)
   * [Packages](#packages)
   * [Shortcuts](#shortcuts)
+  * [Screenshots](#screenshots)
   * [Ressources](#ressources)
   * [License](#license)
 
@@ -64,15 +65,19 @@ Depending on your OS platform, install preferences in those following folders
 | ---------------- | --------------- | ---------------- | ------------- |
 | Ctrl+Alt+F       | n/a             | n/a              | fetch command |
 
+## Screenshots
+
+![Capture #1](screenshots/1.png)
+
 ## Ressources
 
+ * [Package Control - Syncing](https://sublime.wbond.net/docs/syncing)
  * See my [Sublime Text 3 (dev) Preferences](https://github.com/antleblanc/sublime-text-3-preferences)
 
 ## Todo
 
  * Add Shortcuts
  * Add Snippets
- * Add Screenshots
  * Add sublime-keymap for OS X and GNU/Linux
  * Documentation
 
