@@ -4,17 +4,17 @@
 
 
 ## Table of Contents
+
   * [Requirement](#requirement)
   * [Installation](#installation)
   * [Packages](#packages)
   * [Shortcuts](#shortcuts)
+  * [Ressources](#ressources)
   * [License](#license)
-
 
 ## Requirement
 
 You need to install [Package Control](https://sublime.wbond.net/installation#st2).
-
 
 ## Installation
 
@@ -28,8 +28,8 @@ Depending on your OS platform, install preferences in those following folders
 
 **Mac OS X** : ```~/Library/Application Support/Sublime Text 2/Packages/User```
 
-
 ## Packages
+
  + [AdvancedNewFile](https://sublime.wbond.net/packages/AdvancedNewFile)
  + [Alignment](https://sublime.wbond.net/packages/Alignment)
  + [ApacheConf.tmLanguage](https://sublime.wbond.net/packages/ApacheConf.tmLanguage)
@@ -59,12 +59,18 @@ Depending on your OS platform, install preferences in those following folders
  + [Terminal](https://sublime.wbond.net/packages/Terminal)
  + [Theme - Soda](https://sublime.wbond.net/packages/Theme%20-%20Soda)
 
-
 ## Shortcuts
- * `Ctrl+Alt+F` -- Fetch command (**Nettuts+ Fetch**)
 
+| Windows          | OS X            | GNU/Linux        | Description   |
+| ---------------- | --------------- | ---------------- | ------------- |
+| Ctrl+Alt+F       | n/a             | n/a              | fetch command |
+
+## Ressources
+
+ * See my [Sublime Text 3 (dev) Preferences](https://github.com/antleblanc/sublime-text-3-preferences)
 
 ## Todo
+
  * Add Shortcuts
  * Add Snippets
  * Add Screenshots
@@ -72,4 +78,5 @@ Depending on your OS platform, install preferences in those following folders
  * Documentation
 
 ## License
+
 MIT © [Antoine Leblanc](http://antleblanc.me)
